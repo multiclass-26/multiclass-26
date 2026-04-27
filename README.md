@@ -6,6 +6,8 @@ Fa√ßo sistemas web com Python e Django. Trabalho com dashboards, fluxos, automa√
 
 The Enigma of Heaven and Other Daily Delusions - Heaven Pierce Her
 
+006. A Gaze Among a Thousand Others. - Piranesi
+
 Lift Your Skinny Fists Like Antennas to Heaven - Godspeed You! Black Emperor
 
 Polygondwanaland - King Gizzard & The Lizard Wizard
